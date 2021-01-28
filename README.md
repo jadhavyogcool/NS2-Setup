@@ -1,3 +1,6 @@
+#Download the files from the drive link
+https://drive.google.com/file/d/1sMfJhK9MxoxgYeq9GIu_Q6Du_a--VikT/view
+
 #Before cloning the repo make sure the below check is done
 
 Just make sure, Your windows defender is turned off as shown below.
@@ -7,7 +10,7 @@ Just make sure, Your windows defender is turned off as shown below.
 # Steps To Install the Cgywin and NS2 
 1) First clone the repository using 
 ```
-git clone https://github.com/jadhavyogcool/nam.git
+git clone clone-path
 ```
 2) After cloning the repository, Extract the files of NS 2.35.part1.rar files.
 The following image is the screenshot after extracting the file
